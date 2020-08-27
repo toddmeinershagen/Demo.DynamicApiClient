@@ -1,6 +1,6 @@
 ﻿namespace Demo.PolicyApiClient.Functions
 {
-    public static partial class Function1
+    public static partial class Functions
     {
         public class OrSpecification : CompositeSpecification
         {
